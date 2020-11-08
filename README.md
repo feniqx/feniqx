@@ -1,7 +1,7 @@
 ## Oh, hello there! 👋
 
 ### About Me:
-• 🤖 I am currently working on a fitheid plugin for my minecraft server!<br />
+• 🤖 I am currently working on a fitness plugin for my minecraft server!<br />
 • ⚡ Fun fact: I am from Belgium! <br />
 • 🎮 You can connect me on discord: feniqx#9999<br />
 • 📚 I am currently learning Python!
